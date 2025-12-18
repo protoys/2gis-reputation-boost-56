@@ -1,5 +1,5 @@
 // WhatsApp configuration - change this phone number as needed
-export const WHATSAPP_PHONE = '77001234567'; // Format: country code + number, no + sign
+export const WHATSAPP_PHONE = '77718628229'; // Format: country code + number, no + sign
 
 // Pricing
 export const PRICE_PER_REVIEW = 250; // ₸ per review

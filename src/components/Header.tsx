@@ -15,10 +15,10 @@ const Header: React.FC = () => {
     >
       <div className="container mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
-          {/* Premium Badge */}
-          <div className="premium-badge">
-            <Sparkles className="w-4 h-4 text-gold" />
-            <span className="text-foreground">{t('badge.premium')}</span>
+          {/* Logo */}
+          <div className="flex items-center gap-2">
+            <Sparkles className="w-5 h-5 text-primary" />
+            <span className="text-xl font-display font-bold text-foreground">TopRate</span>
           </div>
 
           {/* Navigation */}
