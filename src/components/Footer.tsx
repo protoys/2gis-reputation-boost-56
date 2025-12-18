@@ -22,7 +22,7 @@ const Footer: React.FC = () => {
           {/* Logo / Badge */}
           <div className="flex items-center gap-2 mb-8">
             <Sparkles className="w-6 h-6 text-primary" />
-            <span className="text-xl font-display font-semibold">2GIS Reviews</span>
+            <span className="text-xl font-display font-semibold">TopRate</span>
           </div>
 
           {/* Contact Button */}
